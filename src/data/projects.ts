@@ -1,4 +1,3 @@
-import { tr } from "zod/locales";
 import aiConciergeImage from "../assets/images/ai-concierge.png";
 import chatAppImage from "../assets/images/chat-app.png";
 import recommendationTrackerImage from "../assets/images/recommendation-tracker.png";
